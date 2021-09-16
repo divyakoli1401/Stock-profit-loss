@@ -1,0 +1,31 @@
+:root{
+    --primary-color : #cddafd;
+    --secondary-color : #B58DB6; 
+  }
+  
+  .container{
+    width: 50%;
+    margin: auto;
+  }
+  
+  body{
+    background-color: var(--primary-color);
+    color: #012a4a;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    text-align: center
+  }
+  
+  input{
+    display: block;
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+    width: 100%;
+    padding: 0.5rem;
+  }
+  button{
+    background-color: var(--secondary-color);
+    padding: 0.5rem ;
+    border-radius:0.5rem; 
+    margin: auto;
+    display: block;
+  }
