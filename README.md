@@ -1,2 +1,2 @@
-# fun-with-triangles
-Figure out if the angles form a triangle, calculates area of triangle, calculate hypotenuse of triangle and has a fun little quiz you can play
+# Stock profit or loss
+Stock profit or loss as the name sugegests, is created to find out if your stock purchase is making you a profit or loss.
